@@ -1,3 +1,5 @@
+const indexedDB = window.indexedDB;
+
 let db;
 
 
